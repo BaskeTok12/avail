@@ -9,7 +9,7 @@ function install_avail_dependencies {
 }
 
 function install_avail {
-    curl -sL https://get.avail.sh | bash
+    curl -sL1 avail.sh | bash
 }
 
 function install_service {
