@@ -57,7 +57,7 @@ echo "Service 'avail-light' succesfully started."
 function main {
     install_avail_dependencies
     install_avail
-    install_service
+    #install_service
 }
 
 main
